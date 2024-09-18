@@ -11,9 +11,9 @@ function isOdd(num) {
 }
 let oddRes = isOdd(33);
 if (oddRes === true) {
-    console.log("This number is odd");
+    console.log("This number is Odd");
 } else {
-    console.log("This number is even");
+    console.log("This number is Even");
 }
 
 
